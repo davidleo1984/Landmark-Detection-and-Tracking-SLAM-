@@ -26,7 +26,7 @@ All of the starting code and resources you'll need to compete this project are i
 
 ## Project results
 
-Please see the results of this project in `1. Robot Moving and Sensing.html` and `3. Landmark Detection and Tracking.html`.
+Please see the results of this project in [1. Robot Moving and Sensing.html](https://github.com/davidleo1984/Landmark-Detection-and-Tracking-SLAM/blob/master/1.%20Robot%20Moving%20and%20Sensing.html) and [3. Landmark Detection and Tracking.html](https://github.com/davidleo1984/Landmark-Detection-and-Tracking-SLAM/blob/master/3.%20Landmark%20Detection%20and%20Tracking.html).
 
 ## Project Rubric
 
